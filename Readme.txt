@@ -11,3 +11,11 @@ API: This is the application. It manages all the operations and user requests.
     Middleware: Controls the application errors messages. 
     
 Test: A project to test the infrastructure of the application.
+
+Code first development mode
+
+Prerequisites:
+
+SQL server (.\SQLEXPRESS)
+
+DataBase named RestAppDB (or change the name in the appsettings.json to whatever you desire)
