@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SiSo.Application/1.0.0": {
+        "dependencies": {
+          "SiSo.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SiSo.Application.dll": {}
+        }
+      },
+      "SiSo.Domain/1.0.0": {
+        "runtime": {
+          "SiSo.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SiSo.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SiSo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

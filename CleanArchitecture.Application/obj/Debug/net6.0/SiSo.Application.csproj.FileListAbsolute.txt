@@ -1,0 +1,15 @@
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Application\bin\Debug\net6.0\SiSo.Application.deps.json
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Application\bin\Debug\net6.0\SiSo.Application.dll
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Application\bin\Debug\net6.0\SiSo.Application.pdb
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Application\bin\Debug\net6.0\SiSo.Domain.dll
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Application\bin\Debug\net6.0\SiSo.Domain.pdb
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Application\obj\Debug\net6.0\SiSo.Application.csproj.AssemblyReference.cache
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Application\obj\Debug\net6.0\SiSo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Application\obj\Debug\net6.0\SiSo.Application.AssemblyInfoInputs.cache
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Application\obj\Debug\net6.0\SiSo.Application.AssemblyInfo.cs
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Application\obj\Debug\net6.0\SiSo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Application\obj\Debug\net6.0\SiSo.Application.csproj.CopyComplete
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Application\obj\Debug\net6.0\SiSo.Application.dll
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Application\obj\Debug\net6.0\refint\SiSo.Application.dll
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Application\obj\Debug\net6.0\SiSo.Application.pdb
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Application\obj\Debug\net6.0\ref\SiSo.Application.dll

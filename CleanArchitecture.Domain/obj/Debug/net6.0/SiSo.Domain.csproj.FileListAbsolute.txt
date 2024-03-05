@@ -1,0 +1,12 @@
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Domain\bin\Debug\net6.0\SiSo.Domain.deps.json
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Domain\bin\Debug\net6.0\SiSo.Domain.dll
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Domain\bin\Debug\net6.0\SiSo.Domain.pdb
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Domain\obj\Debug\net6.0\SiSo.Domain.csproj.AssemblyReference.cache
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Domain\obj\Debug\net6.0\SiSo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Domain\obj\Debug\net6.0\SiSo.Domain.AssemblyInfoInputs.cache
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Domain\obj\Debug\net6.0\SiSo.Domain.AssemblyInfo.cs
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Domain\obj\Debug\net6.0\SiSo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Domain\obj\Debug\net6.0\SiSo.Domain.dll
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Domain\obj\Debug\net6.0\refint\SiSo.Domain.dll
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Domain\obj\Debug\net6.0\SiSo.Domain.pdb
+C:\Users\Laynoll\source\repos\SiSo\SiSo\SiSo.Domain\obj\Debug\net6.0\ref\SiSo.Domain.dll
