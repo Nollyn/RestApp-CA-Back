@@ -13,6 +13,11 @@ public interface IUnitOfWork : IDisposable
     /// Instance of Dish repository to be used by UnitOfWork repository
     /// </summary>
     IDishRepository DishRepository { get; }
+
+    /// <summary>
+    /// Instance of a Restaurant repository to be used by UnitOfWork repository
+    /// </summary>
+    IRestaurantRepository RestaurantRepository { get; }
     
     /// <summary>
     /// Instance of the generic repository to be used by UnitOfWork repository

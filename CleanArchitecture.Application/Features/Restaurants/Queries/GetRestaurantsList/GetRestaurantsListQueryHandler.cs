@@ -17,7 +17,7 @@ public class GetRestaurantsListQueryHandler : IRequestHandler<GetRestaurantListQ
 
     public async Task<List<RestaurantsVm>> Handle(GetRestaurantListQuery request, CancellationToken cancellationToken)
     {
-        var restaurantList = await _unitOfWork.DrinkRepository.GetAllAsync();
+        var restaurantList = await _unitOfWork.RestaurantRepository.GetAllAsync();
 
         return _mapper.Map<List<RestaurantsVm>>(restaurantList);
     }

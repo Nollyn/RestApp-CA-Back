@@ -11,7 +11,7 @@ public class CreateRestaurantCommandValidator : AbstractValidator<CreateRestaura
             .WithMessage("The field is required")
             .NotNull()
             .MaximumLength(50)
-            .WithMessage("The lenght should not exceed 50 characters");
+            .WithMessage("The length should not exceed 50 characters");
 
         RuleFor(p => p.Address)
             .NotEmpty()
@@ -23,34 +23,34 @@ public class CreateRestaurantCommandValidator : AbstractValidator<CreateRestaura
             .WithMessage("The field is required")
             .NotNull()
             .MaximumLength(50)
-            .WithMessage("The lenght should not exceed 50 characters");
+            .WithMessage("The length should not exceed 50 characters");
         
         RuleFor(p => p.NIF)
             .NotEmpty()
             .WithMessage("The field is required")
             .NotNull()
             .MaximumLength(50)
-            .WithMessage("The lenght should not exceed 50 characters");
+            .WithMessage("The length should not exceed 50 characters");
         
         RuleFor(p => p.PostalCode)
             .NotEmpty()
             .WithMessage("The field is required")
             .NotNull()
             .MaximumLength(50)
-            .WithMessage("The lenght should not exceed 50 characters");
+            .WithMessage("The length should not exceed 50 characters");
         
         RuleFor(p => p.City)
             .NotEmpty()
             .WithMessage("The field is required")
             .NotNull()
             .MaximumLength(50)
-            .WithMessage("The lenght should not exceed 50 characters");
+            .WithMessage("The length should not exceed 50 characters");
         
-        RuleFor(p => p.Coutry)
+        RuleFor(p => p.Country)
             .NotEmpty()
             .WithMessage("The field is required")
             .NotNull()
             .MaximumLength(50)
-            .WithMessage("The lenght should not exceed 50 characters");
+            .WithMessage("The length should not exceed 50 characters");
     }
 }

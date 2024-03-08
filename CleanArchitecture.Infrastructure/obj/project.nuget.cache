@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m695fOU1XJu04XAqiDeKXF51ZqI3jzETaePdfPrORF2FlZD/SrV8Lmo12w6OYiDzGed894EL8A4LhgQpIzD1Kg==",
+  "dgSpecHash": "avktpWaEfYp08WlbBBrMVTxyRV3MwKkni28OwctuoJAd+OwanC88sMV2HNBN1O1l4S5p3EUeVPo3ajg0iS6tSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Noll\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Noll\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

@@ -12,9 +12,11 @@ public class UnitOfWork : IUnitOfWork
 
     private IDrinkRepository _drinkRepository;
     private IDishRepository _dishRepository;
+    private IRestaurantRepository _restaurantRepository;
 
     public IDrinkRepository DrinkRepository => _drinkRepository ??= new DrinkRepository(_context);
     public IDishRepository DishRepository => _dishRepository ??= new DishRepository(_context);
+    public IRestaurantRepository RestaurantRepository => _restaurantRepository ??= new RestaurantRepository(_context);
 
     public UnitOfWork(AppDbContext context)
     {

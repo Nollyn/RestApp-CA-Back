@@ -21,3 +21,15 @@ C:\Users\Noll\source\repos\RestApp\CleanArchitecture\CleanArchitecture.Domain\ob
 C:\Users\Noll\source\repos\RestApp\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\refint\CleanArchitecture.Domain.dll
 C:\Users\Noll\source\repos\RestApp\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.pdb
 C:\Users\Noll\source\repos\RestApp\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\ref\CleanArchitecture.Domain.dll
+C:\Users\Noll\source\repos\Github\repos\RestApp-CA-Back\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.deps.json
+C:\Users\Noll\source\repos\Github\repos\RestApp-CA-Back\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\Noll\source\repos\Github\repos\RestApp-CA-Back\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\Noll\source\repos\Github\repos\RestApp-CA-Back\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noll\source\repos\Github\repos\RestApp-CA-Back\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Noll\source\repos\Github\repos\RestApp-CA-Back\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Noll\source\repos\Github\repos\RestApp-CA-Back\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Noll\source\repos\Github\repos\RestApp-CA-Back\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.sourcelink.json
+C:\Users\Noll\source\repos\Github\repos\RestApp-CA-Back\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\Noll\source\repos\Github\repos\RestApp-CA-Back\CleanArchitecture.Domain\obj\Debug\net6.0\refint\CleanArchitecture.Domain.dll
+C:\Users\Noll\source\repos\Github\repos\RestApp-CA-Back\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\Noll\source\repos\Github\repos\RestApp-CA-Back\CleanArchitecture.Domain\obj\Debug\net6.0\ref\CleanArchitecture.Domain.dll

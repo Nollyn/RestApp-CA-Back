@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UKSb1wDkXvuHhyDOe/SMR2YPqYE4MwTI2BcBwXPV8qpSkgcUgYhvEzGeAmC41QyYkTbsOsGuoRofnuhd3nVToA==",
+  "dgSpecHash": "JeOKPKHqpqrQNorB7b5xDfuhB1gfZBVneyWsInWxxqQazfAjxKNGlfPuPp8qHbOHsCR3dA2edLbbvsQ7ICS09g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

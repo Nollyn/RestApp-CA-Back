@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Api\\CleanArchitecture.Api.csproj": {}
+    "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Api\\CleanArchitecture.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Api\\CleanArchitecture.Api.csproj": {
+    "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Api\\CleanArchitecture.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Api\\CleanArchitecture.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Api\\CleanArchitecture.Api.csproj",
         "projectName": "CleanArchitecture.Api",
-        "projectPath": "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Api\\CleanArchitecture.Api.csproj",
+        "projectPath": "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Api\\CleanArchitecture.Api.csproj",
         "packagesPath": "C:\\Users\\Noll\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Api\\obj\\",
+        "outputPath": "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,11 +34,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
-                "projectPath": "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+              "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+                "projectPath": "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
               },
-              "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj"
+              "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+    "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
         "projectName": "CleanArchitecture.Application",
-        "projectPath": "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+        "projectPath": "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
         "packagesPath": "C:\\Users\\Noll\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Application\\obj\\",
+        "outputPath": "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -115,8 +115,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
-                "projectPath": "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
+              "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+                "projectPath": "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
               }
             }
           }
@@ -176,14 +176,14 @@
         }
       }
     },
-    "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+    "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
         "projectName": "CleanArchitecture.Domain",
-        "projectPath": "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+        "projectPath": "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
         "packagesPath": "C:\\Users\\Noll\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -237,14 +237,14 @@
         }
       }
     },
-    "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
+    "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
         "projectName": "CleanArchitecture.Infrastructure",
-        "projectPath": "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Noll\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -267,8 +267,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
-                "projectPath": "C:\\Users\\Noll\\source\\repos\\RestApp\\HexagonalArchitectureBackEnd\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+              "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+                "projectPath": "C:\\Users\\Noll\\source\\repos\\Github\\repos\\RestApp-CA-Back\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
               }
             }
           }

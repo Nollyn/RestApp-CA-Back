@@ -413,6 +413,49 @@
   },
   {
     "ContainingType": "CleanArchitecture.Api.Controllers.RestaurantController",
+    "Method": "GetRestaurants",
+    "RelativePath": "api/v1/Restaurant",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CleanArchitecture.Application.Features.Restaurants.Queries.GetRestaurantsList.RestaurantsVm, CleanArchitecture.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ObjectResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ]
+  },
+  {
+    "ContainingType": "CleanArchitecture.Api.Controllers.RestaurantController",
     "Method": "Create",
     "RelativePath": "api/v1/Restaurant",
     "HttpMethod": "POST",
